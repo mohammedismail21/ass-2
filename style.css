@@ -2,7 +2,9 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
-
+header{
+    font-size: 30px;
+}
 article{
 
     display: flex;
@@ -37,4 +39,8 @@ p{
      margin: left 30px;
       padding:10px;
       
+  }
+ h2{
+      text-align: center;
+      margin-top: 70px;
   }
